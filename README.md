@@ -11,7 +11,7 @@ The dataset contains three CSV data files:
 The first row of each file contains headers for the columns. 
 
 ### Variables:
-- **JobId **- Unique ID for each record or instance of the data
+- **JobId** - Unique ID for each record or instance of the data
 - **companyId** - Unique Identifier for the company 
 - **jobType** - The position or job title of the individual
 - **degree** - The degree which the Individual holds
