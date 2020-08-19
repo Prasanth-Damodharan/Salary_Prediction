@@ -11,15 +11,15 @@ The dataset contains three CSV data files:
 The first row of each file contains headers for the columns. 
 
 ### Variables:
-- JobId - Unique ID for each record or instance of the data
-- companyId - Unique Identifier for the company 
-- jobType - The position or job title of the individual
-- degree - The degree which the Individual holds
-- major - The field in which the Individual specializes 
-- Industry - The industry in which the Individual works
-- yearsExperience - The number of years of experience the individual holds
-- milesfromMetropolis - How far is the Individual located from Metropolis
-- Salary - Salary of the individual
+- **JobId **- Unique ID for each record or instance of the data
+- **companyId** - Unique Identifier for the company 
+- **jobType** - The position or job title of the individual
+- **degree** - The degree which the Individual holds
+- **major** - The field in which the Individual specializes 
+- **Industry** - The industry in which the Individual works
+- **yearsExperience** - The number of years of experience the individual holds
+- **milesfromMetropolis** - How far is the Individual located from Metropolis
+- **Salary** - Salary of the individual
 
 ## The task
 To build a model to predict the salaries for the job postings contained in test_features.csv.
